@@ -1,0 +1,13 @@
+.input{
+    border:1px solid black;
+    padding:5px;
+    font-size:15px;
+    margin:20px;
+}
+select{
+    margin-left: 20px;
+
+}
+.select:hover{
+    cursor: pointer;
+}
